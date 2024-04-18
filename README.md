@@ -10,6 +10,9 @@ Happy downloading!
 
 ### 🌐 Downloads 
  › Windows 10 ISO (English, home) 
+ ``````
+This is ISO from official Microsoft website please do NOT download untrusted files! 
+``````
 
 
 ### Was this repository helpful? Don't forget to leave a star ⭐
