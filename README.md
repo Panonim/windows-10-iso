@@ -9,7 +9,7 @@ Feel free to explore the repository and download the ISO files you need. If you 
 Happy downloading!
 
 ### 🌐 Downloads 
- › [Windows 10 ISO](https://www.mediafire.com/file/7zslfpk99gvrjth/Windows.iso/file) (English, home) 
+ › [Windows 10 ISO](https://www.mediafire.com/file/7zslfpk99gvrjth/Windows.iso/file) (English Installation) 
  ``````
 This is ISO from official Microsoft website please do NOT download untrusted files! 
 ``````
